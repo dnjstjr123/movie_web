@@ -1,0 +1,28 @@
+.Header {
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  justify-content: center;
+  background-color: #f4fce3;
+}
+
+.Header .homeBtn {
+  padding-left: 40px;
+  padding-right: 40px;
+  border: 0;
+  background-color: #f4fce3;
+  color: black;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.Header .recmBtn {
+  padding-left: 40px;
+  padding-right: 40px;
+  border: 0;
+  background-color: #f4fce3;
+  color: black;
+  cursor: pointer;
+  font-weight: bold;
+}
